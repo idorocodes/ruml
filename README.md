@@ -54,14 +54,6 @@ The project is structured into two main directories:
    ```
 3. Run the projects using Cargo:
    ```bash
-   cargo run --bin linear_regression
+   cargo run 
    ```
 
----
-
-## 🎯 Future Roadmap
-
-- [ ] Logistic Regression
-- [ ] Decision Trees & Random Forests
-- [ ] Neural Networks / Multilayer Perceptron (MLP)
-- [ ] Benchmarking Python vs. Rust execution performance
