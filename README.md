@@ -24,7 +24,7 @@ The project is structured into two main directories:
 
 | Algorithm | Python Implementation | Rust Implementation |
 | :--- | :---: | :---: |
-| **Linear Regression** | [Python Linear Regression](./python/linear_regression) | [Rust Linear Regression](./rust/linear_regression) |
+| **Linear Regression** | [Python Linear Regression](./pyml/linear_regression) | [Rust Linear Regression](./ruml/linear_regression) |
 
 *(More algorithms to be added as the repository grows!)*
 
